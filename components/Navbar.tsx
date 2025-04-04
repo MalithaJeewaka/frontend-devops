@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="max-w-7xl w-full mx-auto  flex justify-between h-full items-center px-10  text-sm ">
         <div className="flex-1 text-lg">
           <p>
-            <Link href={"/"}>Eventure</Link>
+            <Link href={"/"}>Hello</Link>
           </p>
         </div>
         <nav className="flex-1">
